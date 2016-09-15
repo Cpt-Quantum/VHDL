@@ -1,2 +1,3 @@
 # VHDL
-Repository for my FPGA code done in VHDL.
+
+This is a repository for FPGA development code written in VHDL. 
